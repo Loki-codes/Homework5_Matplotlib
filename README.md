@@ -1,1 +1,2 @@
 # Homework5_Matplotlib
+I was not able to finish the homework in time. It was fun processing the data but the way that the instructions were done caused me to hit a big road block when it came to the box plot section. It was odd that we spent so much time avoiding for loops and then without too much warning it was given as the only solution for a part of our homework. I was able to get a bit of help and made it through but it seemed that everyone felt like the instructions were a bit vague. Thank-you, Kyle 
